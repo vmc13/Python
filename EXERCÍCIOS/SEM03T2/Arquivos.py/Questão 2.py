@@ -1,7 +1,0 @@
-print('10% de desconto!!!!')
-print('')
-preco=float(input('Digite o preço do produto: '))
-preco_com_desc=(preco*0.10)
-preco_com_desconto=round(preco-preco_com_desc)
-print('')
-print("O preço com desconto será de: %2.f" % preco_com_desconto)
