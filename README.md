@@ -1,3 +1,2 @@
 # Python
- Python language learning process, activities and small simple projects.
- From beginning to end.
+Processo pessoal de aprendizagem da linguagem Python, atividades e pequenos projetos simples.
