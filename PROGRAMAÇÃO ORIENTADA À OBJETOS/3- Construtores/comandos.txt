@@ -1,0 +1,11 @@
+Reescreva as classes descritas no exercício anterior, agora utilizando construtores. 
+Para a classe Relógio, os atributos obrigatórios:
+estado (fixo com valor inicial = 'desligado')
+hora (fixo com valor inicial  = 0)
+minuto (fixo com valor inicial = 0)
+
+Para a classe bicicleta, os atributos obrigatórios:
+velocidade_atual (fixo com valor inicial = 0)
+veloc_maxima
+altura_cela (fixo com valor inicial = 0)
+altura_máxima
